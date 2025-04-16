@@ -180,7 +180,7 @@ const App = () => {
     {
       title: isMarathi ? content.mr.treatments.rootCanal.title : content.en.treatments.rootCanal.title,
       description: isMarathi ? content.mr.treatments.rootCanal.description : content.en.treatments.rootCanal.description,
-      image: "/assets/root_canal.webp",
+      image: "/assets/root_Canal.webp",
     },
     {
       title: isMarathi ? content.mr.treatments.dentalCrowns.title : content.en.treatments.dentalCrowns.title,
